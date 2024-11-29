@@ -4,7 +4,7 @@ We are the BioMedical Informatics Lab (BMI lab) "Mario Stefanelli" at the Univer
 
 Passionate group of 25+ researchers happily working on healthcare applications of AI, biomedical data management and analysis.
 
-![BMI lab group picture from May 2024](profile/Foto_BMI_2024_withlogo.jpg)
+![BMI lab group picture from May 2024](Foto_BMI_2024_withlogo.jpg?raw=true)
 
 <!--
 
